@@ -1,4 +1,5 @@
 ##欢迎
+
 您可以使用[编辑器GitHub]（https://github.com/954531417/xiaoming/edit/master/index.md）在Markdown文件中维护和预览您的网站的内容。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -25,7 +26,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
